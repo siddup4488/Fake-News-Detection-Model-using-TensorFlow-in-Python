@@ -18,3 +18,6 @@ NumPy: To perform different mathematical functions.
 Pandas: To load dataset.
 Tensorflow: To preprocessing the data and to create the model.
 SkLearn: For train-test split and to import the modules for model evaluation.
+
+Team leader
+P.SANTHOSH KRISHNA SIDDHARDHA
